@@ -531,7 +531,7 @@ def aproval():
             Main()
             pass
         else:
-            print(f'\x1b[38;5;196m[\x1b[1;97m●\x1b[38;5;196m] \x1b[38;5;46mYOUER KEY : IREESA{id}BABY')
+            print(f'\x1b[38;5;196m[\x1b[1;97m●\x1b[38;5;196m] \x1b[38;5;46mYOUER KEY : IREESA>{id}<BABY')
             line()
             print(f'\x1b[38;5;196m[\x1b[1;97m●\x1b[38;5;196m] \x1b[38;5;46mFREE APROVAL PERSONAL USER ')
             line()
